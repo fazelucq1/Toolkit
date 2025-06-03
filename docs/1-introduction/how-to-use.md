@@ -1,4 +1,4 @@
-# 1.1 How to Use This GitBook
+# 1.1 How to Use This Repo
 
 1. **Navigation**  
    - The menu on the left (SUMMARY) lists all categories and chapters.  
