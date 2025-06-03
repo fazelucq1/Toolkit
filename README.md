@@ -23,7 +23,7 @@ A Bash script named `install_all_tools.sh` is provided at the root. It reads two
 
 * [Home](docs/index.md)
 * [1. Introduction](docs/1-introduction/README.md)
-  * [1.1 How to Use This GitBook](docs/1-introduction/how-to-use.md)
+  * [1.1 How to Use This Repo](docs/1-introduction/how-to-use.md)
 * [2. APT](docs/2-apt/README.md)
   * [2.1 System & Basic Utilities](docs/2-apt/2.1-system-utilities.md)
   * [2.2 Network & Sniffing](docs/2-apt/2.2-network-sniffing.md)
