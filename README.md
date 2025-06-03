@@ -6,6 +6,18 @@ This repository collects all the APT packages and PIP libraries you need to set 
 
 Browse the GitBook chapters to find the category you need, then copy the installation commands into your terminal.
 
+---
+
+## Auto-Install Script
+
+A Bash script named `install_all_tools.sh` is provided at the root. It reads two wordlist files—`all_apt_tools.txt` and `all_pip_tools.txt`—and installs every package listed:
+
+1. First, generate those wordlist files by following the **“Dump All Tool Names”** instructions on the Home page of this GitBook.
+2. Make the script executable and run it:
+   ```bash
+   chmod +x install_all_tools.sh
+   ./install_all_tools.sh
+
 
 # Summary
 
